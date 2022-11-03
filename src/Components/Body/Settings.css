@@ -1,0 +1,50 @@
+.settings_main{
+    padding-left: 5%;
+    position: relative;
+    
+}
+.settings_main button{
+margin-top: 100px;
+margin-bottom: 30px;
+height: 40px;
+width: 150px;
+background-color: rgb(53, 177, 0);
+color: rgb(255, 255, 255);
+font-size: 20px;
+margin-right: 90%;
+border-radius: 15px;
+cursor: cell;
+}
+.settings_main table{
+    height: 300px;
+    width: 100%;
+    font-size: 25px;
+    border-style:outset;
+    background-color: black;
+    border-radius: 15px;
+   
+}
+.settings_main thead>td{
+    width: 200px;
+    height: 70px;
+   
+    background-color: rgb(153, 151, 151);
+}
+.settings_main td{
+    width: 200px;
+    height: 70px;
+    font-size: 25px;
+    border: rgb(181, 179, 179) ;
+     border-width: thin;
+    background-color: white;
+}
+
+
+.settings_main img{
+    height: 50px;
+    width: 50px;
+    cursor: grabbing;
+}
+.settings_main tr{
+    border: solid black;
+}

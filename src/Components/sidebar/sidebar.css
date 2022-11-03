@@ -1,0 +1,24 @@
+.sidebar_main{
+    height: auto;
+    width: 400px;
+    border-radius: 15px;
+   margin-top: 50px;
+   border: solid black;
+   border-width: thin;
+    text-align: center;
+}
+.sidebar_main div{
+    height: 70px;
+    border-radius: 15px;
+    padding-top: 10px;
+    font-size: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.sidebar_main h3{
+    cursor:grabbing;
+}
